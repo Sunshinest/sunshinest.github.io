@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Sep 2021 21:41:58 +0800</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Mon, 27 Sep 2021 21:41:58 +0800</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>这是我的第一篇博客 第一个问题是： 第一次传上去的内容有# 。
+解决方案是： 通过同学的帮助找到了问题，应该在#后面加个空格并且要保存内容。
+第二个问题是： 博客内容有问题。
+解决方案是： 经过我的2次尝试，没成功。然后向学长询问，学长告诉我应该修改你的Markdown文件后重新生成静态页面重新上传。加上自己的尝试与同学的帮助，成功上传了内容。
+以上就是我第一篇博客的内容 欢迎大家访问！ </description>
+    </item>
+    
+  </channel>
+</rss>
